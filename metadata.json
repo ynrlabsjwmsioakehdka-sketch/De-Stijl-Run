@@ -1,0 +1,5 @@
+{
+  "name": "Mondrian Infinite Runner",
+  "description": "An auto-playing generative art piece featuring an infinite runner in a procedural Mondrian-style city.",
+  "requestFramePermissions": []
+}
